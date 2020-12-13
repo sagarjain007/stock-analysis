@@ -1,2 +1,2 @@
 # stock-analysis
-Python for stock analysis and Portfolio Optimization
+Using Python for Stock analysis and Portfolio Optimization
